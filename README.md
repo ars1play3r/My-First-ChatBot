@@ -6,5 +6,5 @@ openai
 connection
 config.py
 
-·Para ejecutar solo se debe de abrir el main.py
-·usando algún intérprete de python🐍
+# Para ejecutar solo se debe de abrir el main.py
+# usando algún intérprete de python🐍
