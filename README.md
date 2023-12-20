@@ -5,3 +5,6 @@ ChatGPT desde CMD usando Python 🐍💯
 openai
 connection
 config.py
+
+·Para ejecutar solo se debe de abrir el main.py
+·usando algún intérprete de python🐍
